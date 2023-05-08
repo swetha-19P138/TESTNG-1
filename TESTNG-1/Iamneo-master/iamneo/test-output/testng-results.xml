@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-07T17:56:14 IST" name="Suite" finished-at="2023-05-07T17:56:51 IST" duration-ms="37046">
+    <groups>
+    </groups>
+    <test started-at="2023-05-07T17:56:14 IST" name="Iamneo_001" finished-at="2023-05-07T17:56:51 IST" duration-ms="37046">
+      <class name="com.qa.testscripts.Iamneo_001">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.qa.testscripts.Iamneo_001@67c33749]" started-at="2023-05-07T17:56:14 IST" name="setup" finished-at="2023-05-07T17:56:38 IST" duration-ms="24255" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.iamneo.ai/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testcase_001()[pri:0, instance:com.qa.testscripts.Iamneo_001@67c33749]" started-at="2023-05-07T17:56:38 IST" name="testcase_001" finished-at="2023-05-07T17:56:50 IST" duration-ms="11970" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase_001 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testscripts.Iamneo_001@67c33749]" started-at="2023-05-07T17:56:50 IST" name="tearDown" finished-at="2023-05-07T17:56:51 IST" duration-ms="748" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.testscripts.Iamneo_001 -->
+    </test> <!-- Iamneo_001 -->
+  </suite> <!-- Suite -->
+</testng-results>
